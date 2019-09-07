@@ -9,4 +9,5 @@ A python coded TEXTUAL game without any graphics.
     The Main motto of the player is to defeat the enemy using basic attacks , Magic or items in inventory .
     different items have different Damage points and uses Magic points that can be revived using Potions 
     
-![picture](image 0.jpg)
+![picture](image 0.png)
+![picture](image 1.png)
